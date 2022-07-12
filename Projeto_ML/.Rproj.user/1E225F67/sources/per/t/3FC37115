@@ -1,0 +1,32 @@
+{
+    "id": "3FC37115",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1646953650942.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "df_factor",
+        "caption": "df_factor",
+        "totalObservations": "30162",
+        "displayedObservations": "30162",
+        "variables": "9",
+        "cacheKey": "810A0BF5",
+        "object": "df_factor",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=df_factor&cache_key=810A0BF5&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 5273545166185067371,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1646953650942,
+    "read_only": false,
+    "read_only_alternatives": []
+}

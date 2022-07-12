@@ -1,0 +1,32 @@
+{
+    "id": "477FEB79",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1647020710040.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "df_Copy",
+        "caption": "df_Copy",
+        "totalObservations": "30162",
+        "displayedObservations": "30162",
+        "variables": "15",
+        "cacheKey": "EC5CBC82",
+        "object": "df_Copy",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=df_Copy&cache_key=EC5CBC82&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7939410088587785587,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1647020710040,
+    "read_only": false,
+    "read_only_alternatives": []
+}

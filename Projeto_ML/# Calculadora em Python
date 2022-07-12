@@ -1,0 +1,20 @@
+# Calculadora em Python
+print ('Opções de operação: soma, multiplicação, divisão, subtração')
+opr = input('Digite a operação que quer executar:')
+x = int(input('Digite o primeiro número:'))
+y = int(input('Digite o segundo número:'))
+
+if opr == 'soma': 
+	rst = x + y
+	print('Seu resultado é %s ' %(rst))
+elif opr == 'multiplicação': 
+	rst = x * y
+	print('Seu resultado é %s ' %(rst))
+elif opr == 'divisão': 
+	rst = x / y
+	print('Seu resultado é %s ' %(rst))
+elif opr == 'subtração':
+	rst = x * y
+	print('Seu resultado é %s ' %(rst))
+else
+	print ('Opção Invalida!')
